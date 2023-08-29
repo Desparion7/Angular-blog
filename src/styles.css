@@ -26,3 +26,20 @@ body {
   border: none;
   box-shadow: 10px 10px 33px 0px rgb(71, 114, 254, 0.4);
 }
+.bg-theme {
+  background-color: var(--primary-color);
+}
+input[type="text"],
+input[type="email"] {
+  height: 60px;
+  padding-left: 20px;
+  font-size: 13px;
+  width: 100%;
+}
+
+.btn-theme {
+  height: 58px;
+  border: none;
+  font-size: 13px;
+  background-color: var(--primary-color);
+}
