@@ -22,3 +22,7 @@ body {
 .nav-link {
   color: var(--primary-color);
 }
+.shadow-effect {
+  border: none;
+  box-shadow: 10px 10px 33px 0px rgb(71, 114, 254, 0.4);
+}
